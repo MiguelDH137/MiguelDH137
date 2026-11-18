@@ -43,7 +43,7 @@ ___
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - Soy Ingeniero en Informática graduado en la universidad Alejandro De Humboldt.
-- Actualmente formandome en el desarrollo Web, con el objetivo de especializarme en el desarrollo full-stack.
+- Actualmente formándome en el desarrollo Web Full Stack
 - La escensia de la programacion es el estudio de problemas, el desarorllo de soluciones logicas y la implementacion con medios tecnologicos.
 <br>
 
@@ -84,9 +84,7 @@ ___
 #### 🖥️ Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/sql-%234169E1.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 #### 🔧 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -102,4 +100,3 @@ ___
 ### ☁️ Hosting
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
